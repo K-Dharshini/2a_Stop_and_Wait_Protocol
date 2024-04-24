@@ -1,4 +1,4 @@
-## EX1a. Stop and Wait Protocol
+## Ex.No:2a Stop and wait protocol
 
 ## AIM:
 To write a python program to perform stop and wait protocol.
